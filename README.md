@@ -4,23 +4,19 @@ Where I store my early projects on path to learning Flutter/Dart. Here are some 
 ### I am Rich
 This application is a preview of some gold, and a remake of the classic iOS app called I am rich, which stood as an app with just a photo of a diamond for $999.99.
 
-<img src="/images/iamrich" width="200">
-
+<img src="https://github.com/raahimid/Flutter-Projects/blob/master/images/iamrich.png" width="200">
 ### I am Poor
 This is just a remake of the I am rich app, to reinforce some rules about flutter and dart. 
-
-![I am poor](/images/iampoor.png)
-
+<img src="https://github.com/raahimid/Flutter-Projects/blob/master/images/iampoor.png" width="200">
 ### Dice Roller
-
-![Magic 8Ball](/images/diceroll.png)
+<img src="https://github.com/raahimid/Flutter-Projects/blob/master/images/diceroll.png" width="200">
 
 ### Magic 8Ball
 
-![Magic 8Ball](/images/magic8ball.png)
-
+<img src="https://github.com/raahimid/Flutter-Projects/blob/master/images/magic8ball.png" width="200">
 ### Personal Card
-![Personal Card](/images/personalcard.png)
 
+<img src="https://github.com/raahimid/Flutter-Projects/blob/master/images/personalcard.png" width="200">
 ### Xylophone
-![Xylophone](/images/xylophone.png)
+
+<img src="https://github.com/raahimid/Flutter-Projects/blob/master/images/xylophone.png" width="200">
