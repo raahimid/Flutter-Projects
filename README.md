@@ -8,9 +8,11 @@ This application is a preview of some gold, and a remake of the classic iOS app 
 
 ### I am Poor
 This is just a remake of the I am rich app, to reinforce some rules about flutter and dart. 
+
 <img src="https://github.com/raahimid/Flutter-Projects/blob/master/images/iampoor.png" width="200">
 
 ### Dice Roller
+
 <img src="https://github.com/raahimid/Flutter-Projects/blob/master/images/diceroll.png" width="200">
 
 ### Magic 8Ball
